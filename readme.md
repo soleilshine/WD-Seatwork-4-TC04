@@ -126,6 +126,12 @@ WD-ProjectName
 | Energy Zoccolo | used this for feature 1 | https://wearebraindead.com/products/copy-of-energy-absorber-zoccolo-checkered?variant=39272911011971|
 | Flesh Sandal | used this for feature 1 | https://wearebraindead.com/products/oakley-factory-team-x-brain-dead-suede-flesh-sandal-whey-multi?variant=43320221630595|
 | Adidas Bowling Shoe | used this for feature 1 | https://wearebraindead.com/products/https://wearebraindead.com/collections/footwear/products/brain-dead-x-adidas-bowling-shoe-white|
+| Layout | used this as reference for feature 1 | https://i.pinimg.com/564x/25/c0/e1/25c0e15df27daca6baf15504baafc0d8.jpg|
+| Shoe 1 | used this for feature 2 | https://cdn.sanity.io/images/c1chvb1i/production/1b5efa2b90ba0fb58f7d380fb78a7294fcfc6697-1100x735.jpg/2203-BRAIND-DEAD-OAKLEY-LOOKBOOK0425-v2-ALEX-CASCALLANA-WEB-2.jpg|
+| Shoe 2 | used this for feature 2 | https://www.clashmusic.com/wp-content/uploads/2024/04/Oakley-Factory-Team-SS24-Drop-I_Flesh-Sandal-Stone-Blue-Black.png|
+| Shoe 3 | used this for feature 2 | https://www.clashmusic.com/wp-content/uploads/2024/04/Oakley-Factory-Team-SS24-Drop-I_Flesh-Sandal-Stone-Blue-Black.png|
+| Shoe 4 | used this for feature 2 | https://thisthingofours.co.uk/cdn/shop/files/0O9A9168.jpg?v=1712773635|
+
 
 
 
