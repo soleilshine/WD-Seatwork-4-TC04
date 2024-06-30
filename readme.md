@@ -131,6 +131,7 @@ WD-ProjectName
 | Shoe 2 | used this for feature 2 | https://www.clashmusic.com/wp-content/uploads/2024/04/Oakley-Factory-Team-SS24-Drop-I_Flesh-Sandal-Stone-Blue-Black.png|
 | Shoe 3 | used this for feature 2 | https://www.clashmusic.com/wp-content/uploads/2024/04/Oakley-Factory-Team-SS24-Drop-I_Flesh-Sandal-Stone-Blue-Black.png|
 | Shoe 4 | used this for feature 2 | https://thisthingofours.co.uk/cdn/shop/files/0O9A9168.jpg?v=1712773635|
+| Layout | used this as reference for feature 2 | https://i.pinimg.com/564x/f5/6b/8e/f56b8e6fe1a9535d26b990b912bbc26e.jpg|
 
 
 
