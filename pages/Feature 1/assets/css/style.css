@@ -79,3 +79,14 @@
     background-color: #597445;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: auto;
+    padding: 20px 0;
+    font-size: 13px;
+    color: gray;
+    border-top: 1px solid gray;
+}
+
