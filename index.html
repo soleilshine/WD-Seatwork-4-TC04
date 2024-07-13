@@ -5,24 +5,57 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Seatwork 4</title>
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link rel="stylesheet" href="./assets/css/header.css">
+    <link rel="stylesheet" href="./assets/css/footer.css">
 
 </head>
 <body>
-    <video preload="auto" autoplay loop muted src="./assets/video/bg-oakley.mp4"></video>
-
-    <header class="header">
-        <a href="" class="active">Home</a>
-        <a href="./pages/Feature 1/index.html" class="btn">Feature 1</a>
-        <a href="./pages/Feature 2/index.html" class="btn">Feature 2</a>
+    <header>
+        <div class="container">
+            <div class="navbar">
+                <img src="./assets/img/oakley-logo.png" alt="" class="logo">
+                <nav>
+                    <ul>
+                        <a href="">HOME</a>
+                        <a href="">ABOUT</a>
+                        <a href="">CONTACTS</a>
+                    </ul>
+                </nav>
+            </div>
+        </div>
     </header>
 
-    <section class="top">
-        <h1 class="title">Feature Display</h1>
-        <h2 class="subtitle">Seatwork 4</h2>
-        <p class="desc">A website that focuses on features of a product with different layouts.</p>
-    </section>
+    <div class="row">
+        <div class="col">
+            <h1>Feature Display</h1> <br>
+            <h4>Seatwork 4</h4> <br>
+            <p>A website that focuses on features of a product with different layouts.</p>
+            <button type="btn">Explore</button>
+        </div>
+        <div class="col">
+            <a href="./pages/feature-1/index.html">
+                <div class="card card1">
+                    <h5>Footwear</h5>
+                </div>
+            </a>
+            <a href="./pages/feature-2/index.html">
+                <div class="card card2">
+                    <h5>Eyewear</h5>
+                </div>
+            </a>
+            <div class="card card3">
+                <h5>Apparel</h5>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <p>&copy; Sherry Auxilio. All content is for educational purposes only @ 2024.</p>
+    </footer>
 </body>
 </html>
 
